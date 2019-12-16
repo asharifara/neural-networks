@@ -1,4 +1,5 @@
 # Neural Networks using Scikit-Learn
 Building Neural Networks
- -MLP Regression
- -MLP Classification
+
+1. MLP Regression
+2. MLP Classification
