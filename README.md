@@ -1,5 +1,6 @@
 # Neural Networks using Scikit-Learn
 Building Neural Networks
 
-1. MLP Regression
-2. MLP Classification
+1. MLP Regression for numeric data (using scikit-learn)
+2. MLP Classification for numeric data (using scikit-learn)
+3. MLP Classification for Text data (using scikit-learn)
