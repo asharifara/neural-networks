@@ -8,6 +8,7 @@ Building Neural Networks
 5. Dimensionality Reduction using Restricted Boltzmann Machines
 
 
+
 ## Selection of layers and neurons :
 How to choose the number of layers and neurons in the neural network 
 
