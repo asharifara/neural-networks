@@ -15,8 +15,9 @@ How to choose the number of layers and neurons in the neural network
 1. The input layer (depends on the number of features in the dataset)
 2. hidden layers:
     it depends on the complexity of the problem. 
-    if the problem has a linear relationship, then we only need to have one(1) hidden layer.
-    if there is a non-linear relationship between input and output, we can use 2 or more.
+    if the problem is a linear relationship, then we do not need to have hidden layer
+    if the problem has a simple Non-linear relationship, then we only need to have one(1) hidden layer.
+    if there is a Non-linear relationship between input and output, we can use 2 or more.
 
 The number of hidden neurons also can be varied and there is no fixed rule for choosing the number of hidden neurons in the hidden layer, but 
 there are some rules :
